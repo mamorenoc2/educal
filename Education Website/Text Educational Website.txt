@@ -1,19 +1,4 @@
 
-
-
-
-========== ABOUT ==========
-.about__title
-Achieve Your <br> Goals With Educal
-
-.about__description 
-Lost the plot bobby such a fibber bleeding bits and bobs don't get shirty with me bugger all mate chinwag super pukka william barney, horse play buggered.
-
-.about__details-description
-Upskill your organization.
-Access more then 100K online courses
-Learn the latest skills
-
 ========== TEACHERS ==========
 .section__subtitle | .section__title
 Our Most <br> Popular Teachers
